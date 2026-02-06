@@ -1,12 +1,6 @@
 # Autonomous Weed Removal Robot
 An autonomous robotics system that detects and removes weeds using computer vision and decision logic, supported by a synthetic field simulation for rapid development and testing.
 
-## Demo / Output
-
-This project was tested both in real-world conditions and using a synthetic field environment.
-
-(Add images or screenshots of the robot, detection output, or field setup here if available.)
-
 The system demonstrates end-to-end autonomy:
 - weed detection
 - decision-making
